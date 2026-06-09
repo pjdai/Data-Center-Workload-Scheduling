@@ -1,0 +1,7 @@
+streamlit
+cvxpy
+pandas
+numpy
+matplotlib
+pyyaml
+gridstatus
